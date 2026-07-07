@@ -20,7 +20,7 @@
 <h1 align="center">暁 / Satoru</h1>
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="110" height="110" alt="Satoru's avatar" style="border-radius:50%;" />
+  <img src="https://github.com/AonoChano.png" width="110" height="110" alt="Satoru's avatar" style="border-radius:50%;" />
 </p>
 
 <p align="center">
