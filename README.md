@@ -20,7 +20,7 @@
   </picture>
 </p>
 
-<h1 align="center">Akira Watanabe</h1>
+<h1 align="center">Satoru Watanabe</h1>
 
 <p align="center">
   <img src="https://github.com/AonoChano.png" width="110" height="110" alt="Akira's avatar" style="border-radius:50%;" />
