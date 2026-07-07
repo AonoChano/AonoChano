@@ -20,10 +20,10 @@
   </picture>
 </p>
 
-<h1 align="center">Akira Watanabe</h1>
+<h1 align="center">Satoru Watanabe</h1>
 
 <p align="center">
-  <img src="https://github.com/AonoChano.png" width="110" height="110" alt="Akira's avatar" style="border-radius:50%;" />
+  <img src="https://github.com/AonoChano.png" width="110" height="110" alt="Satoru's avatar" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Akira-6c5ce7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Satoru-6c5ce7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Watanabe-2f3542?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CCNU-Student-00b894?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Major-Electronic%20Info.-0984e3?style=for-the-badge" />
@@ -41,7 +41,7 @@
 
 ## About Me
 
-Hello! I'm **Akira Watanabe** (渡辺暁).
+Hello! I'm **Satoru Watanabe** (渡辺暁).
 
 I'm currently an undergraduate student majoring in Electronic Information Science and Technology at Central China Normal University.
 
