@@ -142,7 +142,7 @@
       src="../assets/banner-retro-anime-down.png"
       alt="レトロアニメ風のロングダウンバナー（SatoruのGitHubプロフィール用）"
       width="100%"
-      height="160"
+      height="100%"
     />
   </picture>
 </p>

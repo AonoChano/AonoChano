@@ -150,7 +150,7 @@
       src="../assets/banner-retro-anime-down.png"
       alt="Retro anime style long down banner for Satoru's GitHub profile"
       width="100%"
-      height="160"
+      height="100%"
     />
   </picture>
 </p>
