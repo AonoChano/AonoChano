@@ -15,7 +15,7 @@
       src="../assets/banner-retro-anime-up.png"
       alt="レトロアニメ風の長いアップバナー（SatoruのGitHubプロフィール用）"
       width="100%"
-      height="120"
+      height="100%"
     />
   </picture>
 </p>
