@@ -15,7 +15,7 @@
       src="../assets/banner-retro-anime-up.png"
       alt="復古動漫風格長型上方橫幅（用於Satoru的GitHub個人檔案）"
       width="100%"
-      height="100"
+      height="120"
     />
   </picture>
 </p>
@@ -142,7 +142,7 @@
       src="../assets/banner-retro-anime-down.png"
       alt="復古動漫風格長型下方橫幅（用於Satoru的GitHub個人檔案）"
       width="100%"
-      height="120"
+      height="140"
     />
   </picture>
 </p>

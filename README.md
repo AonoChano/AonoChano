@@ -15,7 +15,7 @@
       src="./assets/banner-retro-anime-up.png"
       alt="Retro anime style long up banner for Satoru's GitHub profile"
       width="100%"
-      height="100"
+      height="120"
     />
   </picture>
 </p>
@@ -142,7 +142,7 @@ Rather than chasing every trend, I prefer to dig deeper: understanding why a tec
       src="./assets/banner-retro-anime-down.png"
       alt="Retro anime style long down banner for Satoru's GitHub profile"
       width="100%"
-      height="120"
+      height="140"
     />
   </picture>
 </p>
