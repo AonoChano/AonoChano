@@ -4,7 +4,7 @@
   Banner recommendation: 2400x300 or 3200x360, very wide and narrow.
 -->
 <p align="center">
-  🌐 <a href="./README.md">English</a> · <a href="./i18n/README.zh_cn.md">简体中文</a> · <a href="./i18n/README.zh_tw.md">繁體中文</a> · <a href="./i18n/README.ja.md">日本語</a>
+  🌐 <a href="../README.md">English</a> · <a href="./README.zh_cn.md">简体中文</a> · <a href="./README.zh_tw.md">繁體中文</a> · <a href="./README.ja.md">日本語</a>
 </p>
 
 <p align="center">
