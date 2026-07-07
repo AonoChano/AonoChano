@@ -60,7 +60,7 @@ Rather than chasing every trend, I prefer to dig deeper: understanding why a tec
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode,bash,powershell,ts,js,html,react,rust,go,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,bash,powershell,ts,js,html,react,rust,go,arduino" />
 </p>
 
 <p align="center">
