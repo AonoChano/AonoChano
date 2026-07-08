@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <em>Do robots dream of electronic goats?</em>
+  <em>Do Androids Dream of Electric Goats?</em>
 </p>
 
 <p align="center">
