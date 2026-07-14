@@ -3,11 +3,8 @@
   Banner recommendation: 2400x300 or 3200x360, very wide and narrow.
 -->
 
-<p align="center">
-  🌐 <a href="../README.md">English</a> · <a href="./README.zh_cn.md">简体中文</a> · <a href="./README.zh_tw.md">繁體中文</a> · <a href="./README.ja.md">日本語</a>
-</p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-retro-anime-up.png">
     <source media="(prefers-color-scheme: light)" srcset="../assets/banner-retro-anime-up.png">
@@ -18,7 +15,7 @@
       height="100%"
     />
   </picture>
-</p>
+</p> -->
 
 <h1 align="center">渡辺暁</h1>
 
@@ -34,28 +31,37 @@
   <img src="https://img.shields.io/badge/渡辺-6c5ce7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/暁-2f3542?style=for-the-badge" />
   <img src="https://img.shields.io/badge/華中師範大学-学生-00b894?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/専攻-電子情報科学技術-0984e3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/専攻-電子情報-0984e3?style=for-the-badge" />
+</p>
+<p align="center">
+  🌐 <a href="../README.md">English</a> · <a href="./README.zh_cn.md">简体中文</a> · <a href="./README.zh_tw.md">繁體中文</a> · <a href="./README.ja.md">日本語</a>
 </p>
 
----
+<br></br>
 
 ## 私について
 
-こんにちは！**渡辺暁**（わたなべ あきら）です。
+こんにちは！**渡辺暁**（わたなべ あきら / Satoru Watanabe）です。
 
-現在、中国の華中師範大学で電子情報科学技術を専攻する学部生です。
+中国の華中師範大学で電子情報科学技術を専攻する学部生です。
 
-興味を原動力に新しい知識を探求し、学ぶことが好きです。現在はAI分野の基礎学習と研究に注力しています。また、AIエージェントのヘビーユーザーとして、AIコミュニティや研究の動向を常にウォッチしています。新しいエンジニアリングの理念やワークフローが登場したら、すぐに読み込んで理解し、自分のプロジェクトに取り入れて実践するようにしています。この反復的な学び方によって、技術的な見識を常にアップデートし続けています。
+私は物を作り、その仕組みを理解し、実践を通して学ぶことに情熱を注いでいます。現在は主に AI、大規模言語モデル、ソフトウェアエンジニアリング、組み込みシステムの探索に時間を費やしています。
+
+面白いアイデアを現実のプロジェクトにすることが好きです。小さな開発者ツールであれ、組み込み実験であれ、AI ワークフローであれ、それが*どのように*動作するかだけでなく、*なぜ*そのように設計されたのかを理解したいと思っています。
 
 ---
 
-## 何をしているのか？
+## 現在の取り組み
 
-本当に興味が湧いた新しい技術を常に探求し、実践を通じて自分の理解を検証しています。
+現在最も時間を費やしている分野は以下の通りです：
 
-現在は主に AI / LLM / AIエージェント に注力しつつ、ソフトウェアエンジニアリング、オープンソース開発、組み込みシステムについても学び続けています。
+- 🤖 AI エージェントと大規模言語モデルアプリケーション
+- 🛠 開発者ツールと自動化
+- 💻 ソフトウェアエンジニアリングとオープンソースプロジェクト
+- 🔌 組み込みシステムと電子技術
+- 📚 機械学習と自動制御の基礎を固める
 
-流行を追うよりも、その技術がなぜ生まれたのか、どのように設計されたのか、そしてどこへ進化するのかを深く考えることを好みます。
+新しいアイデアを試したり、ソースコードを読んだり、日常の開発で実際の問題を解決する小さなプロジェクトを作ることが好きです。
 
 ## Tech Stack
 
@@ -64,33 +70,34 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/電子工学-222831?style=flat-square" />
-  <img src="https://img.shields.io/badge/組み込みシステム-393E46?style=flat-square" />
-  <img src="https://img.shields.io/badge/信号処理-00ADB5?style=flat-square" />
-  <img src="https://img.shields.io/badge/クリエイティブコーディング-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI Engineering-222831?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-393E46?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-00ADB5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Developer%20Tools-6C5CE7?style=flat-square" />
 </p>
 
 ---
 
-## 現在探求していること？
+## 現在探求していること
 
-- 機械学習の基礎知識を独学中
-- 自動制御理論を研究中
-- 大規模言語モデルの実応用シナリオ（例：**ハーネスエンジニアリング**）を調査
-- 自分の日常開発や生活を便利にするツールを開発
-- 思いついた面白いものを開発
-- Vibe Coding に留まらず、プログラミング言語を徹底的に学ぶ
+- 機械学習の基礎知識を学ぶ
+- 自動制御理論を研究する
+- AI 支援開発ワークフローを構築する
+- マルチエージェントシステムを実験する
+- 日常の仕事をより楽しくするツールを開発する
+- 興味深いオープンソースプロジェクトのソースコードを読む
 
 ---
 
 ## 注目プロジェクト
 
-| Project | Description |
+| プロジェクト | 説明 |
 | :--- | :--- |
-| [Telegodex](https://github.com/AonoChano/telegodex) | Telegram 経由で Codex / Claude Code 等を操作し、Vibe Coding をスマホからリモート監視 |
-| [KORT](https://github.com/AonoChano/knights-of-round-table) | LangGraph と Next.js 15 を用いた多人数AI討論アーキテクチャの実験的実装 |
-| [ClaudeSwitchTUI](https://github.com/AonoChano/claude-switch-tui) | セキュアな Claude Code プロバイダ切替ツール（OSキーチェーン保存、多言語TUI、スコープ起動環境） |
+| [Telegodex](https://github.com/AonoChano/telegodex) | Telegram からリモートで Codex、Claude Code などのコーディングエージェントを実行および監督します。 |
+| [KORT](https://github.com/AonoChano/knights-of-round-table) | 複数の AI 専門家が協力し、討論し、問題を共同で解決する実験的フレームワークです。 |
+| [ClaudeSwitchTUI](https://github.com/AonoChano/claude-switch-tui) | Claude Code プロバイダを安全に切り替える多言語 TUI ツールで、OS キーチェーン統合と隔離された起動環境をサポートします。 |
 
+<!-- 
 ---
 
 <p align="center">
@@ -108,8 +115,17 @@
       src="https://raw.githubusercontent.com/AonoChano/AonoChano/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</p>
+</p> -->
 
+
+---
+
+
+## コーディング以外
+
+プログラミング以外には、アニメ、SF、そして新しい技術が人々がソフトウェアを構築する方法をどのように変えるかを探求することが好きです。
+
+AI、オープンソース、またはその他の興味深いことについてのアイデアを交換することはいつでも歓迎します。
 
 ---
 
@@ -127,7 +143,7 @@
 ---
 
 <p align="center">
-  <em>“Day before yesterday I saw a rabbit, and yesterday a deer, and today, you.”</em>
+  <em>「おとといウサギを見た、きのうシカを見た、そして今日、君を見た。」</em>
 </p>
 
 <p align="center">

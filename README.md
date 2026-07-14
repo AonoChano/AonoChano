@@ -3,11 +3,8 @@
   Banner recommendation: 2400x300 or 3200x360, very wide and narrow.
 -->
 
-<p align="center">
-  🌐 <a href="./README.md">English</a> · <a href="./i18n/README.zh_cn.md">简体中文</a> · <a href="./i18n/README.zh_tw.md">繁體中文</a> · <a href="./i18n/README.ja.md">日本語</a>
-</p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-retro-anime-up.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-retro-anime-up.png">
@@ -18,7 +15,7 @@
       height="100%"
     />
   </picture>
-</p>
+</p> -->
 
 <h1 align="center">Satoru Watanabe</h1>
 
@@ -36,26 +33,35 @@
   <img src="https://img.shields.io/badge/CCNU-Student-00b894?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Major-Electronic%20Info.-0984e3?style=for-the-badge" />
 </p>
+<p align="center">
+  🌐 <a href="./README.md">English</a> · <a href="./i18n/README.zh_cn.md">简体中文</a> · <a href="./i18n/README.zh_tw.md">繁體中文</a> · <a href="./i18n/README.ja.md">日本語</a>
+</p>
 
----
+<br></br>
 
 ## About Me
 
-Hello! I'm **Satoru Watanabe** (渡辺暁).
+Hi! I'm **Satoru Watanabe** (渡辺暁).
 
-I'm currently an undergraduate student majoring in Electronic Information Science and Technology at Central China Normal University.
+I'm an undergraduate student majoring in Electronic Information Science and Technology at Central China Normal University.
 
-I love exploring and learning new knowledge driven by interest. Right now, I'm focusing on foundational learning and research in AI. As a heavy user of AI Agents, I keep a close eye on the AI community and research progress. Whenever new engineering concepts or workflows emerge, I try to read and understand them as soon as possible, and put them into practice in my own projects. This iterative learning style helps me continuously update my technical perspective.
+I'm passionate about building things, understanding how they work, and learning by doing. Most of my time is currently spent exploring AI, LLMs, software engineering, and embedded systems.
+
+I enjoy turning interesting ideas into real projects. Whether it's a small developer tool, an embedded experiment, or an AI workflow, I like to understand not only *how* it works, but also *why* it was designed that way.
 
 ---
 
 ## What I'm Doing
 
-I constantly explore new technologies that truly interest me, and verify my understanding through hands‑on practice.
+These are the areas I'm currently spending most of my time on:
 
-Currently, I mainly focus on AI / LLM / AI Agents, while also continuously learning about software engineering, open‑source development, and embedded systems.
+- 🤖 AI Agents and LLM applications
+- 🛠 Developer tools and automation
+- 💻 Software engineering and open-source projects
+- 🔌 Embedded systems and electronics
+- 📚 Building a stronger foundation in machine learning and automatic control
 
-Rather than chasing every trend, I prefer to dig deeper: understanding why a technology came to be, how it was designed, and where it might evolve next.
+I enjoy experimenting with new ideas, reading source code, and building small projects that solve real problems in everyday development.
 
 ## Tech Stack
 
@@ -64,22 +70,22 @@ Rather than chasing every trend, I prefer to dig deeper: understanding why a tec
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electronics-222831?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI Engineering-222831?style=flat-square" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-393E46?style=flat-square" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-00ADB5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creative%20Coding-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-00ADB5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Developer%20Tools-6C5CE7?style=flat-square" />
 </p>
 
 ---
 
 ## What I'm Exploring Now
 
-- Self‑learning the fundamentals of machine learning
+- Learning machine learning fundamentals
 - Studying automatic control theory
-- Investigating real‑world application scenarios of large language models, e.g., **Harness Engineering**
-- Building tools that make my daily development or life more convenient
-- Developing interesting things I've imagined
-- Deeply learning programming languages, beyond just Vibe Coding
+- Building AI-assisted development workflows
+- Experimenting with multi-agent systems
+- Developing tools that make everyday work more enjoyable
+- Reading source code of interesting open-source projects
 
 ---
 
@@ -87,10 +93,11 @@ Rather than chasing every trend, I prefer to dig deeper: understanding why a tec
 
 | Project | Description |
 | :--- | :--- |
-| [Telegodex](https://github.com/AonoChano/telegodex) | Control Codex / Claude Code etc. via Telegram, remote supervision for Vibe Coding on mobile |
-| [KORT](https://github.com/AonoChano/knights-of-round-table) | An experimental multi‑expert AI discussion framework built with LangGraph and Next.js 15 |
-| [ClaudeSwitchTUI](https://github.com/AonoChano/claude-switch-tui) | A secure provider‑switching tool for Claude Code, with OS keychain storage, multilingual TUI, and scoped launch environments |
+| [Telegodex](https://github.com/AonoChano/telegodex) | Run and supervise Codex, Claude Code, and other coding agents remotely from Telegram. |
+| [KORT](https://github.com/AonoChano/knights-of-round-table) | An experimental framework where multiple AI experts collaborate, debate, and solve problems together. |
+| [ClaudeSwitchTUI](https://github.com/AonoChano/claude-switch-tui) | Switch Claude Code providers securely with multilingual TUI support, OS keychain integration, and isolated launch environments. |
 
+<!-- 
 ---
 
 <p align="center">
@@ -108,8 +115,17 @@ Rather than chasing every trend, I prefer to dig deeper: understanding why a tec
       src="https://raw.githubusercontent.com/AonoChano/AonoChano/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</p>
+</p> -->
 
+
+---
+
+
+## Outside of Coding
+
+Besides programming, I enjoy anime, science fiction, and exploring how new technologies change the way people build software.
+
+I'm always happy to exchange ideas about AI, open source, or anything interesting.
 
 ---
 
