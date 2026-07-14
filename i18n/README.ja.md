@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/専攻-電子情報-0984e3?style=for-the-badge" />
 </p>
 <p align="center">
-  🌐 <a href="../README.md">English</a> · <a href="./README.zh_cn.md">简体中文</a> · <a href="./README.zh_tw.md">繁體中文</a> · <a href="./README.ja.md">日本語</a>
+  🌐 <a href="../README.md">English</a> · <a href="./README.zh_cn.md">简体中文</a> · <a href="./README.zh_tw.md">繁體中文</a> · 日本語
 </p>
 
 <br></br>
