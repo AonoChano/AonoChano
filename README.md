@@ -55,18 +55,7 @@ I enjoy experimenting with new ideas, reading source code, and building small pr
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,bash,powershell,ts,js,html,react,rust,go,arduino" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI Engineering-222831?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-393E46?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-00ADB5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Developer%20Tools-6C5CE7?style=flat-square" />
-</p>
-
-
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,react,github,linux,rust" />
 
 <!-- 
 ---
