@@ -54,8 +54,9 @@ I'm passionate about building things, understanding how they work, and learning 
 I enjoy experimenting with new ideas, reading source code, and building small projects that solve real problems in everyday development.
 
 ## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,react,github,linux,rust" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,react,github,linux,rust" />
+</div>
 
 <!-- 
 ---
