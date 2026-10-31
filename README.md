@@ -45,7 +45,7 @@ I'm an undergraduate student majoring in Electronic Information Science and Tech
 
 I'm passionate about building things, understanding how they work, and learning by doing.Here are why I'm interested in:
 
-- 🤖 AI Agents and LLM applications
+- 🤖 AI Architecture Design & Research
 - 🛠 Developer tools and automation
 - 💻 Software engineering and open-source projects
 - 🔌 Embedded systems and electronics
